@@ -15,6 +15,7 @@ def read_json():
                   f"Release Date: {release_date} \n"
                   f"Developer: {developer} \n"
                   f"Categories: {categories} \n")
+        print(len(lines))
 
 
 
